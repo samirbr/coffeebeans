@@ -1,3 +1,7 @@
+# Node skeleton for ES2016
+
+A work in progress
+
 # Get Started
 
 ```
@@ -9,3 +13,9 @@ npm install
 ```
 gulp serve
 ```
+
+## TODO
+
+* core libs as external dependency
+* readme
+* tests
